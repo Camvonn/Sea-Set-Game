@@ -2,7 +2,7 @@
 
 ## Installation
 Clone the repository:
- git clone 
+ git clone https://github.com/Camvonn/Sea-Set-Game.git
  
 Navigate to the project directory
 
